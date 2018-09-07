@@ -1,3 +1,7 @@
+alias install='sudo apt-get install'
+alias isntall='install'
+alias update='sudo apt-get update'
+alias upgrade='sudo apt-get upgrade'
 alias bitch=''
 alias please='sudo $(history -p !!)'
 alias lsd='ls -halF'
